@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Josef\\Documents\\PRG\\_osobni\\base_souradnice\\base_souradnice\\base_souradnice.csproj": {}
+    "C:\\Users\\Josef\\Source\\Repos\\souradnice\\base_souradnice\\base_souradnice\\base_souradnice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Josef\\Documents\\PRG\\_osobni\\base_souradnice\\base_souradnice\\base_souradnice.csproj": {
+    "C:\\Users\\Josef\\Source\\Repos\\souradnice\\base_souradnice\\base_souradnice\\base_souradnice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Josef\\Documents\\PRG\\_osobni\\base_souradnice\\base_souradnice\\base_souradnice.csproj",
+        "projectUniqueName": "C:\\Users\\Josef\\Source\\Repos\\souradnice\\base_souradnice\\base_souradnice\\base_souradnice.csproj",
         "projectName": "base_souradnice",
-        "projectPath": "C:\\Users\\Josef\\Documents\\PRG\\_osobni\\base_souradnice\\base_souradnice\\base_souradnice.csproj",
+        "projectPath": "C:\\Users\\Josef\\Source\\Repos\\souradnice\\base_souradnice\\base_souradnice\\base_souradnice.csproj",
         "packagesPath": "C:\\Users\\Josef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Josef\\Documents\\PRG\\_osobni\\base_souradnice\\base_souradnice\\obj\\",
+        "outputPath": "C:\\Users\\Josef\\Source\\Repos\\souradnice\\base_souradnice\\base_souradnice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Josef\\AppData\\Roaming\\NuGet\\NuGet.Config",
